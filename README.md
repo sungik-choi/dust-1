@@ -1,20 +1,22 @@
-# 미세먼지 프로젝트
+# Dust Project
 
-미세먼지 프로젝트 - 1팀
+실시간 미세먼지 정보를 보여주는 서비스 제작 프로젝트
 
-## Members
+## Member
 
-- BE 🎒: [Jay][jay], [Dion][dion]
-- FE 🐥: [Ed][ed]
-- iOS 🧞: [Lena][lena]
+| 분야 |   이름    |
+| :--: | :-------: |
+|  FE  |    Ed     |
+|  BE  | Jay, Dion |
+| iOS  |   Lena    |
 
-## Index
+## Features
 
-- **[Ground Rule](../../wiki/Ground-Rule)**
-- **[Scrum](../../wiki/Scrum)**
-- **[Todo List](https://link.idion.dev/team-todo)**
+- Vanilla JS
+- SASS
+- [이미지 재생 애니메이션 구현](https://github.com/sungik-choi/dust-project/blob/develop/FE/src/js/components/progressBar.js)
 
-[jay]: https://github.com/beginin15
-[dion]: https://github.com/ksundong
-[ed]: https://github.com/sungik-choi
-[lena]: https://github.com/dev-Lena
+## Docs 
+
+- [그라운드 룰](https://github.com/codesquad-member-2020/dust-1/wiki/Ground-Rule)
+- [스크럼 일지](https://github.com/codesquad-member-2020/dust-1/wiki/Scrum)
